@@ -1,6 +1,6 @@
 Feature: Task2
 
-  Scenario: Kupienie swetra
+  Scenario: Zakup swetra
     Given Uzytkownik jest juz zalogowany
     When wybierze do zakupu Hummingbird Printed Sweater
     And wybierze rozmiar "M"
